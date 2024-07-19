@@ -21,17 +21,12 @@
     
 ###
  <div>
-    <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHCardoso&layout=pie&theme=blue_navy&hide_border=true"
-        alt="KauaHCardoso" />
-</div>
-<br />
-<div>
-    &nbsp;<img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=KauaHCardoso&show_icons=true&theme=blue_navy&hide_border=true"
-        alt="pedroso-miguell" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KauaHCardoso&theme=blue_navy" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KauaHCardoso&layout=compact&theme=blue_navy&langs_count=8&card_width=320" />
+  </a>
 </div>
   
  <h3 align="center">Connect with me:</h3>
